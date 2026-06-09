@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Smart Basket AI",
+    "slug": "smart-basket-ai",
+    "scheme": "smartbasketai",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
